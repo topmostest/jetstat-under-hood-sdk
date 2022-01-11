@@ -1,0 +1,10 @@
+BOOLEAN = 'boolean'
+DATE = 'date'
+DATETIME = 'datetime'
+NUMBER = 'number'
+STRING = 'string'
+TIME = 'time'
+IGNORE = 'ignore'
+REAL_TYPES = None  # type: dict
+REVERSE_TYPES = None  # type: dict
+NULL_VALUES = None  # type: dict
